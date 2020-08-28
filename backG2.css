@@ -1,0 +1,47 @@
+body{
+	background-color: lightyellow;
+margin: none;
+}
+ul{
+	display: flex;
+	padding: 8px;
+	list-style-type: none;
+	margin: 0px;
+	top: 5px;
+
+}
+li a {
+	top: 5px;
+	display: block;
+	color: white;
+	padding: 8px;
+	font-size: 10px;
+margin: 0px;
+}
+header{
+	margin: 0px;
+	background-color: red;
+	height: 40px;
+	width: 100%;
+
+}
+.backG2{
+	/* Line 1 */
+
+position: absolute;
+width: 14px;
+height: 0px;
+left: 6px;
+top: 37px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-90deg);
+
+}
+h1
+	{
+	font-size: 20px;
+	font-style: bold;
+	color: navy;
+	margin-top: -10px;
+}
